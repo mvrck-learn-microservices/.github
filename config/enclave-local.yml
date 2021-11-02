@@ -1,0 +1,17 @@
+app:
+  service:
+    cordelia:
+      baseUrl: http://localhost:8081
+      clientId: nightfury
+      secret: secret
+      grantType: password
+redis:
+  config:
+    cache:
+      host: localhost
+      port: 6379
+      password: "SevenEightTwo782"
+server:
+  port: 8082
+  servlet:
+    context-path: /api/enclave
