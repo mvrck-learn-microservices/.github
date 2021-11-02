@@ -18,7 +18,7 @@ The case study on this project is booking tickets on the train. Reference on boo
 
 ## Architecture
 
-![Learning microservice architecture](img/learning_microservice_architecture.png)
+![Learning microservice architecture](profile/img/learning_microservice_architecture.png)
 
 | Codename      |      Description      |
 | ----------    |:-------------         |
@@ -34,4 +34,4 @@ The case study on this project is booking tickets on the train. Reference on boo
 
 ## Database Design
 
-![Database design](img/db_design.png)
+![Database design](profile/img/db_design.png)
